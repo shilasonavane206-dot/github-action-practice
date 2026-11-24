@@ -1,6 +1,6 @@
 #Github Actions practice
 
-##concepts
+##Concepts
 
 ## 1. workflows
 
